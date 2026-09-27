@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sohaibsaqibai-dot.github.io/sitemap.xml
+Sitemap: https://sohaibsaqibai-dot.github.io/ShotPDF/sitemap.xml
+Sitemap: https://sohaibsaqibai-dot.github.io/chatveil/sitemap.xml
+Sitemap: https://sohaibsaqibai-dot.github.io/scriptsnap/sitemap.xml
+Sitemap: https://sohaibsaqibai-dot.github.io/pulse-speed-test/sitemap.xml
+Sitemap: https://sohaibsaqibai-dot.github.io/offline-game-hub/sitemap.xml
+Sitemap: https://sohaibsaqibai-dot.github.io/quick-notes/sitemap.xml
+Sitemap: https://sohaibsaqibai-dot.github.io/lullpage/sitemap.xml
+Sitemap: https://sohaibsaqibai-dot.github.io/autopause/sitemap.xml
